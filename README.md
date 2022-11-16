@@ -1,4 +1,4 @@
-# coursera-course repositary Assessments for HTML, CSS, and Javascript for Web Developers by Yaakov Chaikin from Johns Hopkins University. click on the below link you will be redirected to github page where you can find the source files. 
+coursera-course repositary Assessments for HTML, CSS, and Javascript for Web Developers by Yaakov Chaikin from Johns Hopkins University. click on the below link you will be redirected to github page where you can find the source files. 
 Please use this as helping material only. 
 Do not copy.
 
